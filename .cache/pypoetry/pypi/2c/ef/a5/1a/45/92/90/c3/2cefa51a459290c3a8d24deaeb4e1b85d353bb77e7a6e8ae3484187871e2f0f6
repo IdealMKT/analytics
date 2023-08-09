@@ -1,0 +1,1 @@
+9999999999{"name": "gspread", "version": "5.10.0", "summary": "Google Spreadsheets Python API", "platform": null, "requires_dist": ["google-auth>=1.12.0", "google-auth-oauthlib>=0.4.1"], "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}

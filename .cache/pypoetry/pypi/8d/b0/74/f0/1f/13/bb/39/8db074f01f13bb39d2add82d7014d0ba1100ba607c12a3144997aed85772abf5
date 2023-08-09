@@ -1,0 +1,1 @@
+9999999999{"name": "apiclient", "version": "1.0.4", "summary": "Framework for making good API client libraries using urllib3.", "platform": "", "requires_dist": ["urllib3", "certifi"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}
